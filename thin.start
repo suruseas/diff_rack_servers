@@ -1,0 +1,2 @@
+#!/bin/sh
+bundle exec thin start -C config/thin.yml
